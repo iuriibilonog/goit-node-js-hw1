@@ -1,5 +1,5 @@
 const { Command } = require("commander");
-const functions = require("./db/contacts");
+const functions = require("./contacts");
 
 const program = new Command();
 program
